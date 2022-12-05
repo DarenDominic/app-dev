@@ -1,9 +1,8 @@
 # app-dev
 My first repository.
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+| Movie | Genre |
+| ----------- | ----------- |
+| Insidious | 2019 |
+| Black Adam | 2022 |
+
+
