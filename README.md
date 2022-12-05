@@ -2,7 +2,5 @@
 My first repository.
 | Movie | Genre |
 | ----------- | ----------- |
-| Insidious | 2019 |
-| Black Adam | 2022 |
-
-
+| Black Adam | Supernatural |
+| Conjuring | Horror/Thriller |
